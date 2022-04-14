@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![Alan052918's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alan052918)
-
-![Alan052918's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan052918)
