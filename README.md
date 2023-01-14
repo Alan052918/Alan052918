@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a NYU Computer Engineering Master's student. 
+
+I like iOS and service development.
+
 <!--
 **Alan052918/Alan052918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,8 +24,5 @@ Here are some ideas to get you started:
 
 <!-- ![Alan052918's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alan052918) -->
 
-![](https://raw.githubusercontent.com/Alan052918/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Alan052918/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/Alan052918/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Alan052918/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Alan052918/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/Alan052918/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Alan052918/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/Alan052918/github-stats/master/generated/languages.svg#gh-light-mode-only)
