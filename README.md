@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a NYU Computer Engineering Master's student. 
+I'm a Software Engineer at Tinder.
 
 I like iOS and service development.
 
