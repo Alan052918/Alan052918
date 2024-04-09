@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 <!-- ![Alan052918's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alan052918) -->
 
-![](https://raw.githubusercontent.com/Alan052918/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/Alan052918/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/Alan052918/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/Alan052918/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<!--![](https://raw.githubusercontent.com/Alan052918/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/Alan052918/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Alan052918/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/Alan052918/github-stats/master/generated/languages.svg#gh-light-mode-only) -->
